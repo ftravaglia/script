@@ -5,14 +5,14 @@
 
 
 usage() {
-	echo "This script is use for simplify the use of the pg_dump command."
+	echo "This script is use for simplify the use of the pg_restore command."
 	echo ""
-	echo "Usage of the dump command:"
+	echo "Usage of the restore command:"
 	echo "-u,  --user : database user"
 	echo "-h,  --host : database host"
 	echo "-p,  --port : database port"
 	echo "-db, --database-name : database name"
-	echo "-f,  --file : the dump file"
+	echo "-f,  --file : the file to restore"
 
 }
 
