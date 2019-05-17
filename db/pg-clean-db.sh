@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 # Author ftravaglia
 # Write the 24/12/2014
 # This script is use for clean a database.
